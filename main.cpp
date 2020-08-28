@@ -12,7 +12,6 @@ using namespace std;
     string p2name;
 
     void display_board(){
-
     cout<<"\n  "<<board[0][0]<<"  | "<<board[0][1]<<"  |  "<<board[0][2]<<"\n";
     cout<<"_____|____|____\n";
     cout<<"  "<<board[1][0]<<"  | "<<board[1][1]<<"  |  "<<board[1][2]<<"\n";
