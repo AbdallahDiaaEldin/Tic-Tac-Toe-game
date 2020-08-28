@@ -5,11 +5,11 @@ The game is programmed for 2 players; each player has got to choose a number rep
 # Layout:
 
 The layout will be as following:
-# 1  | 2  | 3  
-# ________
-# 4  | 5  | 6  
-# ________
-# 7  | 8  | 9  
+ 1  | 2  | 3  
+ ________
+ 4  | 5  | 6  
+ ________
+ 7  | 8  | 9  
  # Instructions:
  
  1. Player 1 (X) will enter his/her name, same goes for player 2 (O).
