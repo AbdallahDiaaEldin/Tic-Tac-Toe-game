@@ -1,5 +1,8 @@
 # Tic-Tac-Toe-game
-A guide for coding tic tac toe game using C++
+A guide for coding tic tac toe game using C++.
+
+# Description:
+
 The game is programmed for 2 players; each player has got to choose a number representing the box of the step he/she wants to play their turn in. 
 
  # Instructions:
