@@ -97,5 +97,5 @@ int main(){
     else{
         cout<<"Draw!\n";
     }
-    cout<<"Thanks for playing!";
+    cout<<"\nThanks for playing!";
 }
