@@ -89,10 +89,10 @@ int main(){
         gameover();
     }
     if(turn == 'X' && draw == false){
-        cout<<"Congratulations, Player O has won!\n";
+        cout<<"Congratulations, "<<p2name<<" has won!\n";
     }
     else if(turn == 'O' && draw == false){
-        cout<<"Congratulations, Player X has won!\n";
+        cout<<"Congratulations, "<<p1name<<" has won!\n";
     }
     else{
         cout<<"Draw!\n";
